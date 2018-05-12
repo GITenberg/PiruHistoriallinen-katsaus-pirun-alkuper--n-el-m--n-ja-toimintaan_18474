@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8052'
     url: http://www.gutenberg.org/2009/agents/8052
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18474#PiruHistoriallinen-katsaus-pirun-alkuper--n-el-m--n-ja-toimintaan
 gutenberg_issued: '2006-05-30'
 gutenberg_type: Text
 identifiers:
