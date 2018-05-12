@@ -1,0 +1,26 @@
+_repo: PiruHistoriallinen-katsaus-pirun-alkuper--n-el-m--n-ja-toimintaan_18474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kujala, Juho
+    birthdate: 1878
+    deathdate: 1919
+    gutenberg_agent_id: '8052'
+    url: http://www.gutenberg.org/2009/agents/8052
+description: ''
+gutenberg_issued: '2006-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18474'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BF'
+- !lcsh 'Devil'
+title: 'Piru: Historiallinen katsaus pirun alkuperään, elämään ja toimintaan'
+url: http://www.gutenberg.org/ebooks/18474
